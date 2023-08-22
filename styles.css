@@ -21,7 +21,7 @@ header>h2{
 	justify-content:space-between;
 	overflow:hidden;
 } 
-.NewsArticle{
+.latest-news-section{
 	background-color:white;
   
 	background-size:contanis;
@@ -40,7 +40,7 @@ header>h2{
 	padding:10px; 
 	margin:10px;
 }
-.PactcorialNews{
+.pictorial-news-section{
 	background-color:white;
 	width:150px;
 /* 	height:240px; */
